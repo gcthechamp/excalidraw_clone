@@ -78,9 +78,25 @@ sub
     width: 303px;
     height: 41px;
     padding: 6px;
+    background-color: white;;
 }   
 
 .item_icon
 {
     width: 18px;
+}
+
+.item_icon>svg,.item_name
+{
+    color: #a1a1a1;
+}
+
+.shortcut
+{
+    color: #c2c2c2;
+}
+
+#main>h4
+{
+    color: #b8b8b8;
 }
