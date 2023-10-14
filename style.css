@@ -1,0 +1,86 @@
+#three-line
+{
+    width: 47px;
+
+}
+
+.vertical-line
+{
+    border-left: 1px solid #d8d8d8;
+    height: 25px;
+}
+
+sub
+{
+    color: #c9c9c9;
+}
+
+.tool
+{
+    margin-right: 10px;
+    padding-left: 5px;
+}
+
+#user_account
+{
+    width: 47px;
+    background-color: #6965db;
+    height: 47px;
+}
+
+#library>span
+{
+    color: #aeaeae;
+}
+
+#library
+{
+    width: 108px;
+    height: 47px;
+}
+
+#toolbar
+{
+    width: 559px;
+    height: 47px;
+}
+
+#desc>svg
+{
+    width: 44px;
+}
+
+#toolbar_text
+{
+    font-size: 10px;
+    margin-top: 10px;
+    color: #c7c7c7;
+}
+
+#desc-2>svg
+{
+    width: 47px;
+}
+
+#desc,#desc-2
+{
+    color: #b8b8b8;
+}
+
+#toolbar
+{
+    box-shadow: 0px 5px 10px 0px #e8e8e8;
+}
+
+.item_button
+{
+    border: none;
+    width: 303px;
+    height: 41px;
+    padding: 6px;
+}   
+
+.item_icon
+{
+    width: 18px;
+}
